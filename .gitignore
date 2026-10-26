@@ -1,0 +1,7 @@
+# Sekrety — NIGDY do repozytorium
+.env
+postman/prywatne/
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
